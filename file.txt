@@ -1,2 +1,5 @@
 This is my first change to stage and commit using the 
 command line.
+
+
+Now, I am in the my-new-branch branch........
